@@ -1,4 +1,4 @@
-<h1> Olá, eu sou o Thiago, mas pode me chamar de Mamede!! </h1>
+<h1> Olá, eu sou o Thiago Mamede!! </h1>
 
 Sou fotógrafo profissional em transição de carreira 
 e busco me tornar um desenvolvedor FullStack
