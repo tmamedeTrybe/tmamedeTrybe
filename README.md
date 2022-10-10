@@ -1,10 +1,10 @@
 <h1> Olá, eu sou o Thiago Mamede!! </h1>
 
 Sou fotógrafo profissional em transição de carreira 
-e busco me tornar um desenvolvedor FullStack
+e busco me tornar um desenvolvedor FullStack. Fã de Jazz, Rock, cinema e literatura e récem apaixonado por tecnologia!
 
 - Estudo Desenvolvimento Web na Trybe
-- Atualmente estou estudando Typescript
+- Atualmente estou estudando MongoDB
 
 ## :rocket: 💻 Technologies and Tools
 <div>
