@@ -4,7 +4,7 @@ Sou fotógrafo profissional em transição de carreira
 e busco me tornar um desenvolvedor FullStack. Fã de Jazz, Rock, cinema e literatura e récem apaixonado por tecnologia!
 
 - Estudo Desenvolvimento Web na Trybe
-- Atualmente estou estudando MongoDB
+- Atualmente estou estudando Python
 
 ## :rocket: 💻 Technologies and Tools
 <div>
