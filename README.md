@@ -1,6 +1,7 @@
 <h1> Olá, eu sou o Thiago Mamede!! </h1>
 
-Desenvolvedor Web Full-stack
+Desenvolvedor Web Full-stack.
+
 Fã de Jazz, Rock, cinema e literatura e récem apaixonado por tecnologia! 
 
 *contato: tmamede2@gmail.com
